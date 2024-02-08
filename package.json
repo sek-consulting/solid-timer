@@ -1,0 +1,26 @@
+{
+  "name": "solid-timer",
+  "type": "module",
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "vinxi start"
+  },
+  "dependencies": {
+    "@kobalte/core": "^0.12.1",
+    "@solidjs/router": "^0.11.5",
+    "@solidjs/start": "^0.5.2",
+    "autoprefixer": "^10.4.14",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "postcss": "^8.4.26",
+    "solid-js": "^1.8.14",
+    "tailwind-merge": "^2.2.1",
+    "tailwindcss": "^3.4.1",
+    "tailwindcss-animate": "^1.0.7",
+    "vinxi": "^0.2.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
